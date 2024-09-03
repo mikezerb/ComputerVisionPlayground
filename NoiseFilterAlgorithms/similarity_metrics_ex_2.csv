@@ -1,0 +1,16 @@
+dominant-curve|gauss noise|Averaging|0.21615085|2014.9991
+dominant-curve|gauss noise|Gaussian|0.39361007|1596.0585
+dominant-curve|gauss noise|Median|0.21786007|2227.4385
+dominant-curve|gauss noise|Bilateral|0.50035681|844.1083
+Meisje_met_de_parel|gauss noise|Averaging|0.09934197|6112.1562
+Meisje_met_de_parel|gauss noise|Gaussian|0.27987991|5037.3905
+Meisje_met_de_parel|gauss noise|Median|0.06160405|7438.5624
+Meisje_met_de_parel|gauss noise|Bilateral|0.83069055|634.5787
+the-kiss-1908|gauss noise|Averaging|0.16521797|2392.5112
+the-kiss-1908|gauss noise|Gaussian|0.35733803|1908.5959
+the-kiss-1908|gauss noise|Median|0.15754287|2665.6928
+the-kiss-1908|gauss noise|Bilateral|0.51707171|1197.0652
+the-tilled-field-1924|saltandpepper noise|Averaging|0.21964954|2291.9629
+the-tilled-field-1924|saltandpepper noise|Gaussian|0.39757342|1800.5508
+the-tilled-field-1924|saltandpepper noise|Median|0.22715071|2300.127
+the-tilled-field-1924|saltandpepper noise|Bilateral|0.61499142|1058.6134
